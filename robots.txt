@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uegohdika.alalucafe.cz/sitemap.xml
